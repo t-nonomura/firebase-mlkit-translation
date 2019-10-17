@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MLKitTranslation</string>
+    <string name="translate_button">翻訳</string>
+</resources>
